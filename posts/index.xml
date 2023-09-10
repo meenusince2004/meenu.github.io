@@ -1,0 +1,49 @@
+
+
+
+
+
+
+
+
+
+
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        
+            <atom:link href="https://meenu.github.io/posts/index.xml" rel="self" type="application/rss+xml"/>
+        
+        
+        <description>Posts · Meenus Coding Adventures</description>
+        
+            <language>en-us</language>
+        
+        
+        <link>https://meenu.github.io/posts/</link>
+        
+        
+            <title>Posts · Meenus Coding Adventures</title>
+        
+        
+        
+            <item>
+                
+                
+                    <description><![CDATA[<p>Welcome to my Hugo portfolio site! I&rsquo;m Meenakshi, a 1st year B.tech CSE student at Amrita School of Engineering. Explore my journey, projects, and passion for technology as I document my academic and personal growth.</p>
+]]></description>
+                
+                
+                    <guid>https://meenu.github.io/posts/1/</guid>
+                    <link>https://meenu.github.io/posts/1/</link>
+                
+                
+                    <pubDate>Sun, 10 Sep 2023 20:47:17 &#43;0530</pubDate>
+                
+                
+                    <title>1</title>
+                
+            </item>
+        
+    </channel>
+</rss>
